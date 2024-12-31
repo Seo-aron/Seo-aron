@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-aron&langs_count=8&theme=dark)](https://github.com/Seo-aron/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-aron&langs_count=8&theme=dark)](https://github.com/Seo-aron/github-readme-stats)
 </div>
 
 <!--
