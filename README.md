@@ -15,7 +15,9 @@
 
 <br><br>
 
+<div align="center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-aron&langs_count=8&theme=dark)](https://github.com/Seo-aron/github-readme-stats)
+</div>
 
 <!--
 **Seo-aron/Seo-aron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
