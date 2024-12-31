@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-## :closed_book: Skills
+:closed_book: <h3>Skill</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
