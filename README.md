@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    <h3>:closed_book: Dev log</h3>
+    <h3>:closed_book: DEV log</h3>
   </p>
   <p>
     <a href="https://github.com/Seo-aron/github-readme-stats">
