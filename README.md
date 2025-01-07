@@ -7,6 +7,6 @@
   </p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-aron&layout=compact&theme=dark" alt="Top Langs" style="width: 350px; height: 200px; vertical-align: middle;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Seo-aron&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 300px; height: 350px; vertical-align: middle;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Seo-aron&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 300px; height: 200px;" />
   </p>
 </div>
