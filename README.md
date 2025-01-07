@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text=aron GitHub%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text=aron%20GitHub%20render&fontSize=90" />
+
 <div align="center">
   <p>
     <h3>:closed_book: DEV log</h3>
