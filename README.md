@@ -10,3 +10,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seo-aron&show_icons=true&theme=dark" alt="GitHub Stats" style="max-width: 100%;" />
   </p>
 </div>
+
+<a href="https://micomoco.tistory.com/" target="_blank">
+  <img src="https://simpleicons.org/icons/tistory.svg" alt="Tistory" width="24" height="24">
+</a>
