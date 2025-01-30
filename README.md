@@ -8,6 +8,8 @@
   <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-aron&layout=compact&theme=dark" alt="Top Langs" style="max-width: 100%;" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seo-aron&show_icons=true&theme=dark" alt="GitHub Stats" style="max-width: 100%;" />
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dkfhs4337" alt="Solved.ac Profile" />
+  </p>
+  <p align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dkfhs4337" alt="Solved.ac Profile" style="display: block; margin: auto;" />
   </p>
 </div>
